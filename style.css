@@ -1,0 +1,158 @@
+body {
+  margin: 0;  
+  background-color:#33331a;
+
+}
+.header {
+    background-color:#33331a;
+}
+.header .duck {
+    padding-bottom: 20px;
+}
+
+.social-header{
+    display: flex;
+    float: right;
+    color: white;
+    padding-top: 15px;
+}
+.fa-caret-down,
+.fa-bars {
+    padding-right: 30px;
+
+}
+.fa-twitter {
+    padding-right: 10px;
+
+}
+.duck-logo {
+    text-align: center;
+}
+.search {
+    text-align: center;
+}
+.header img{
+    padding-top: 50px;
+}
+.input-box{
+    width: 30%;
+    
+}
+.duck{
+    width: 25%;
+}
+.fa-search{
+    color: white;
+
+}
+.content{
+    display:flex;
+    background-color:#33331a;
+}
+
+.content .info {
+    color: white;
+    margin-left: 20%;
+    width: 500px;
+    height: 300px;
+    padding-top: 30px;
+
+}
+.content img{
+    padding-top: 20vh;
+    width: 80%;
+    position: absolute;
+    top:5%;
+    left:10%;
+
+}
+.works{
+    text-align: center;
+}
+
+ .works .head{
+   display:flex;
+   text-align: center;
+   
+}
+.head h1{
+    color: white;
+    margin-top: 280px;
+    padding-left: 42vw;
+}
+.boxes {
+    display: flex;
+    padding-top: 50px;
+    background-color:#33331a;
+    background-image: linear-gradient(#33331a, #33331a, #008ae6);
+}
+.box{
+    padding: 30px;
+    background-color: yellow;
+    color:#33331a;
+    margin-left: 8%;
+    border-radius: 10px;
+    width: 18%;
+    
+}
+.privacy{
+    background-color: #008ae6;
+
+}
+.privacy h1{
+   margin: 0;
+   padding-top: 50px;
+}
+.monster-img {
+    padding: 10vh;
+    background-color: #008ae6;
+    background-image: linear-gradient(#008ae6,#ccff66)
+
+}
+.info-third {
+    background-color: #ccff66;
+    margin: 0;
+    padding-top: 50px;
+    text-align: center;
+   
+}
+.ghost-img{
+    background-color: #ccff66;
+    padding: 10vh;
+    height: 50%;
+}
+.info-forth {
+    padding: 30px;
+    text-align: center;
+    background-color: #ccff66;
+}
+.info-fifth {
+    padding: 50px;
+    text-align: center;
+    background-color: #6666ff;
+}
+.bathtub-img {
+    text-align: center;
+    background-color: #6666ff;
+}
+.bottom{
+    background-color: #b3ffff;
+}
+.link {
+    display: flex;
+    margin-right: 10px;
+    float: right;
+    color: black;
+    padding-top: 0;
+}
+.bottom-info {
+    margin-left: 10%;
+    padding-top: 30px;
+    text-align: center;
+
+}
+.alpinist-img {
+    padding-top: 40px;
+    text-align: center;
+
+}
